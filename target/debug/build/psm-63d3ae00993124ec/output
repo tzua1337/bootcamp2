@@ -41,4 +41,4 @@ HOST_ARFLAGS = None
 cargo:rerun-if-env-changed=ARFLAGS
 ARFLAGS = None
 cargo:rustc-link-lib=static=psm_s
-cargo:rustc-link-search=native=/home/tzua/programming/ICP/dzien2/target/debug/build/psm-63d3ae00993124ec/out
+cargo:rustc-link-search=native=/home/tzua/programming/ICP/bootcamp2/target/debug/build/psm-63d3ae00993124ec/out
